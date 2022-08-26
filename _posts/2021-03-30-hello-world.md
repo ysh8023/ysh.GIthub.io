@@ -8,12 +8,12 @@ author: 糖太粽
 
 toc: true
 comments: true
-typora-root-url: ../../ysh.github.io
+typora-root-url: ..
 math: false
 mermaid: true
 
 image:
-  src: ../assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg 
+  src: 
   alt: 签约成功
 
 ---
