@@ -1,24 +1,24 @@
 ---
 title: 你好，世界！
-date: 2022-03-26 10:34:00 +0800
+date: 2022-08-26 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
-author: 湾区书记汤姆
+author: 糖太粽
 
 toc: true
 comments: true
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../ysh.github.io
 math: false
 mermaid: true
 
 image:
-  src: /assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg
+  src: ../assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg 
   alt: 签约成功
 
 ---
 
-# 感谢关注～ 
+# Hello Word～
 
 
 这里可以放代码片段噢～
@@ -29,6 +29,6 @@ int main(){
 }
 ```
 
-![image-20220327184021601](/assets/blog_res/2021-03-30-hello-world.assets/image-20220327184021601.png)
+![image-20220327184021601](/2021-03-30-hello-world.assets/image-20220327184021601.png)
 
-![Screen Shot 2022-04-03 at 11.46.41 AM](/assets/blog_res/2021-03-30-hello-world.assets/Screen Shot 2022-04-03 at 11.46.41 AM.png)
+![Screen Shot 2022-04-03 at 11.46.41 AM](/2021-03-30-hello-world.assets/Screen Shot 2022-04-03 at 11.46.41 AM.png)
